@@ -17,3 +17,8 @@ Good usage of notebooks:
     are not sort of after the fact making sort decisions about "well, should we 
     open this or not",they just said "we are doing it for everything". 
 
+**Create Virtual Environment for every project**
+
+For Example, In this repo., we installed several packages with a definite version along the way.
+Abou which version of software and package will you use. If it concerns more than one version, then 
+you need to create Virtual Environment for every project.
