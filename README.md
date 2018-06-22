@@ -22,3 +22,14 @@ Good usage of notebooks:
 For Example, In this repo., we installed several packages with a definite version along the way.
 Abou which version of software and package will you use. If it concerns more than one version, then 
 you need to create Virtual Environment for every project.
+
+<hr>
+
+**Forward**
+
+From Quora
+> Start at a level you understand, and gradually increase the complexity of the problems you are solving and the systems you are building.
+
+> Don't let yourself distracted by all the vanity. If you get shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerning.
+
+**The concepts become more abstract,with architecture more complex, programming makes good efficiency and contain more deep condense intelligence, meanwhile, leaving a long way for newbies, it is far away from experience-thinking **
