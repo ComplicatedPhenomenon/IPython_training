@@ -1,3 +1,27 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.0'
+      jupytext_version: 0.8.1
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+  language_info:
+    codemirror_mode:
+      name: ipython
+      version: 3
+    file_extension: .py
+    mimetype: text/x-python
+    name: python
+    nbconvert_exporter: python
+    pygments_lexer: ipython3
+    version: 3.6.5
+---
+
 This repository records some small implementations of skills frequently used in work. :smile:
 <hr>
 Good usage of notebooks:
@@ -33,3 +57,8 @@ From Quora
 > Don't let yourself distracted by all the vanity. If you get shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerning.
 
 **The concepts become more abstract,with architecture more complex, programming makes good efficiency and contain more deep condense intelligence, meanwhile, leaving a long way for newbies, it is far away from experience-thinking **
+
+<hr>
+Quantify your knowledge
+
+You have seen that people explain or depict a thing by including as many features as possible, not some of them which they think are important.  
