@@ -38,11 +38,9 @@ jupyter:
     are not sort of after the fact making sort decisions about "well, should we
     open this or not",they just said "we are doing it for everything".
 
-## Create Virtual Environment for every project
+## Create Isolated Environment for every project
 
-For Example, In this repo., we installed several packages with a definite version along the way.
-Abot which version of software and package will you use. If it concerns more than one version, then
-you need to create Virtual Environment for every project.
+For Example, In this repository, To adapt to the learning material, I installed loads of packages with a definite version along the way, even same library has multiple version. About which version of software and package will you use. If it concerns more than one version, then you need to create isolated Environment for each project.
 
 
 ## Forward
@@ -52,7 +50,7 @@ From `Quora`
 
 > Don't let yourself distracted by all the vanity. If you get shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerning.
 
-The concepts become more abstract, with architecture more complex, programming makes good efficiency and contain more deep condense intelligence, meanwhile, leaving a long way for newbies, it is far away from experience-thinking
+As the concepts become more abstract, with architecture more complex, programming makes good efficiency and contain more deep condense intelligence, meanwhile, leaving a long way for newbies, it is far away from experience-thinking.
 
 
 You have seen that people explain or depict a thing by including the complete features, not instead of listing some features which you think are important.  
