@@ -2,6 +2,7 @@
 Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 *.json
 *.txt
+.DS_Store
 
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
