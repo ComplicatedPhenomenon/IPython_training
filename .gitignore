@@ -3,8 +3,13 @@ Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 *.json
 *.txt
 .DS_Store
+*.ttf
+*.jpeg
+*.png
+*.jpg
 
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
 Python-Data-Analytics-and-Visualization
 Data-visualization-projects-in-python
+astrophysics/airports_2019
