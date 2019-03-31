@@ -1,12 +1,13 @@
 .ipynb_checkpoints/
 Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+.DS_Store
 *.json
 *.txt
-.DS_Store
 *.ttf
 *.jpeg
 *.png
 *.jpg
+*.html
 
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
