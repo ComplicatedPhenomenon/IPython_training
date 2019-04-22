@@ -9,6 +9,7 @@ Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 *.jpg
 *.html
 *.ini
+*.pkl
 
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
