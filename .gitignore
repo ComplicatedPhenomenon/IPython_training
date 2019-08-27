@@ -2,6 +2,7 @@
 Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 .DS_Store
 *.json
+*.xlsx
 *.txt
 *.ttf
 *.jpeg
