@@ -9,44 +9,36 @@
 
 
 # Data structure
-## How `list` is implemented?
+<div class="alert alert-block alert-success">
 
-```c
-typedef struct {
-    # 列表对象引用计数
-    int ob_refcnt;  
-    # 列表类型对象      
-    struct _typeobject *ob_type;
-    # 列表元素的长度
-    int ob_size; /* Number of items in variable part */
-    # 真正存放列表元素容器的指针，list[0] 就是 ob_item[0]
-    PyObject **ob_item;
-    # 当前列表可容纳的元素大小
-    Py_ssize_t allocated;
-} PyListObject;
-```
+</div>
 
-## How `set` is implemented?
+* How `list` is implemented?
+  ```c
+  typedef struct {
+      # 列表对象引用计数
+      int ob_refcnt;  
+      # 列表类型对象      
+      struct _typeobject *ob_type;
+      # 列表元素的长度
+      int ob_size; /* Number of items in variable part */
+      # 真正存放列表元素容器的指针，list[0] 就是 ob_item[0]
+      PyObject **ob_item;
+      # 当前列表可容纳的元素大小
+      Py_ssize_t allocated;
+  } PyListObject;
+  ```
+* How `set` is implemented?
+* How `dict` is implemented?
+* How `balanced binary search tree` is implemented?
+* How `black red tree` is implemented?
+* `list` vs `tuple`
 
+  https://foofish.net/list-different-with-tuple.html
 
-## How `dict` is implemented?
+  一个对象在其生命周期内，如果保持不变，就是 hashable（可哈希的）。
 
-
-## How `balanced binary search tree` is implemented?
-
-
-## How `black red tree` is implemented?
-
-## `list` vs `tuple`
-https://foofish.net/list-different-with-tuple.html
-
-一个对象在其生命周期内，如果保持不变，就是 hashable（可哈希的）。
-
-在Python中：
-
-list、set和dictionary 都是可改变的，比如可以通过list.append()，set.remove()，dict['key'] = value对其进行修改，所以它们都是不可哈希的；
-
-而tuple和string是不可变的，只可以做复制或者切片等操作，所以它们就是可哈希的。
+  在Python中：tuple和string是不可变的，只可以做复制或者切片等操作，所以它们就是可哈希的。
 
 # reference
 https://foofish.net
