@@ -12,6 +12,8 @@ Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 *.ini
 *.pkl
 *.csv
+MachineLearning/PyTorch*
+MachineLearning/tutorials
 
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
