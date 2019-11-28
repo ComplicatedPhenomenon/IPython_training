@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
-Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-MachineLearning/d2l-zh
+
 .DS_Store
 *.json
 *.xlsx
@@ -13,9 +12,14 @@ MachineLearning/d2l-zh
 *.ini
 *.pkl
 *.csv
+
+!figure/xmind/*.png
+figure/examples
+
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+MachineLearning/d2l-zh
 MachineLearning/PyTorch*
 MachineLearning/tutorials
-
 Learning-Python-Data-Visualization/
 Mastering-Python-Data-Analysis/
 Python-Data-Analytics-and-Visualization
@@ -23,4 +27,4 @@ Data-visualization-projects-in-python
 astrophysics/airports_2019
 Scipy/numpy/numpy_exercises/
 Scipy/numpy/numpy-100/
-*MM
+
