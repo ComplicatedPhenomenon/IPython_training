@@ -2,7 +2,12 @@
 The content includes:
 - [x] Data structure
 - [x] Algorithm
+    - [x] Sorting 
+    - [x] Hashes
+    - [x] Dynamic programming
+    - [x] Back tracking
 - [x] Data analysis
+    - [x]  Web mining
 - [x] Data visualization
 - [x] Data crawling
 
