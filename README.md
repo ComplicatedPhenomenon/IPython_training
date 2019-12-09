@@ -7,9 +7,9 @@ The content includes:
     - [x] Dynamic programming
     - [x] Back tracking
 - [x] Data analysis
-    - [x]  Web mining
-- [x] Data visualization
-- [x] Data crawling
+    - [x] Web mining
+    - [x] Data wrangling 
+    - [x] Data visualization
 
 ## Good usage of notebooks:
 
