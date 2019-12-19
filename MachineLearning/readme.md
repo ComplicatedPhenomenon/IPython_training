@@ -5,7 +5,12 @@
 |Dive into Deep learning||Aston Zhang Mu Li Zachary C. Lipton Alexander J. Smola|learn by doing|
 
 # Tools
-[Deep learning framework](https://developer.nvidia.com/deep-learning-frameworks).
+## Comparasion of DL frameworks
+https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software
+
+[Deep learning framework](https://developer.nvidia.com/deep-learning-frameworks)
+
+## Why we use it?
 * -[ ] `sklearn`
 * -[x] `MXNet`
 * -[ ] `keras` 
