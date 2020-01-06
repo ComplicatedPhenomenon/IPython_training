@@ -43,3 +43,6 @@ From `Quora`
 > Start at a level you understand, and gradually increase the complexity of the problems you are solving and the systems you are building.
 
 > Don't let yourself distracted by all the vanity. If you get shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerning.
+
+## Directions for skill enhancement 
+http://hackflow.com/blog/2014/06/22/why-every-language-needs-its-underscore/
