@@ -12,7 +12,7 @@ The content includes:
   - [x] Web mining
     - [x] random website | [scrapping.ipynb](DataAnalysis/scrapping.ipynb)    
     - [x] QQ | [QQ.ipynb](DataAnalysis/QQ.ipynb)    
-    - [x] zhihu | [Zhihu.ipynb](DataAnalysis/Zhihu.ipynb)
+    - [x] Zhihu | [Zhihu.ipynb](DataAnalysis/Zhihu.ipynb)
     - [x] wikipedia | [Wikipedia.ipynb](DataAnalysis/Wikipedia.ipynb)
     - [x] twitter | [MiningTwitter.ipynb](DataAnalysis/MiningTwitter.ipynb)
     - [x] Github | [github.ipynb](DataAnalysis/github.ipynb)
@@ -20,18 +20,18 @@ The content includes:
   - [x] Data wrangling  
     - [x] RegularExpression | [RegularExpression.ipynb ](DataAnalysis/RegularExpression.ipynb)
     - [x] BeautifulSoup | [scrapping.ipynb](DataAnalysis/scrapping.ipynb)  
-    - [x] pandas | [pandas.ipynb](SciPy/pandas/pandas.ipynb)
+    - [x] pandas | [pandas.ipynb](SciPy/pandas/pandas.ipynb), [adult_csv_processing.ipynb](SciPy/pandas/adult_csv_processing.ipynb)
   - [x] Data visualization
     - [x] matplotlib | [matplotlib.ipynb](DataVisualization/matplotlib.ipynb)
     - [x] plotly | [plotly.ipynb](DataVisualization/plotly.ipynb), [plotly_offline.ipynb](DataVisualization/plotly_offline.ipynb)
     - [x] altair | [altair.ipynb](DataVisualization/altair.ipynb)
   - [x] Scipy
-    - [x] numerical comutation | [scipyTutorial.ipynb](SciPy/scipy/scipyTutorial.ipynb)
-    - [x] symbolic compuation | [SymbolicComputation.ipynb](SciPy/scipy/SymbolicComputation.ipynb)
+    - [x] numerical computation | [scipyTutorial.ipynb](SciPy/scipy/scipyTutorial.ipynb)
+    - [x] symbolic computation | [SymbolicComputation.ipynb](SciPy/scipy/SymbolicComputation.ipynb)
     - [x] statistics | [statisticalPackage.ipynb](SciPy/scipy/statisticalPackage.ipynb)
 - [x] Leetcode
     - [x] String | [string.ipynb](LeetCode/string.ipynb)
-    - [x] Arry | [PerforamanceOfArray.ipynb](DataStructureAndAlgorithm/PerforamanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
+    - [x] Array | [PerforamanceOfArray.ipynb](DataStructureAndAlgorithm/PerforamanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
     - [x] Tree | [BTree.ipynb](DataStructureAndAlgorithm/BTree.ipynb)
     - [x] Hash Table| [HarshTable.ipynb ](DataStructureAndAlgorithm/HarshTable.ipynb)
     - [x] Binary Search | [Search.ipynb](DataStructureAndAlgorithm/Search.ipynbb)
