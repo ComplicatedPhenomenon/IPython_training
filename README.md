@@ -31,7 +31,7 @@ The content includes:
     - [x] statistics | [statisticalPackage.ipynb](SciPy/scipy/statisticalPackage.ipynb)
 - [x] Leetcode
     - [x] String | [string.ipynb](LeetCode/string.ipynb)
-    - [x] Array | [PerforamanceOfArray.ipynb](DataStructureAndAlgorithm/PerforamanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
+    - [x] Array | [PerformanceOfArray.ipynb](DataStructureAndAlgorithm/PerforamanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
     - [x] Tree | [BTree.ipynb](DataStructureAndAlgorithm/BTree.ipynb)
     - [x] Hash Table| [HarshTable.ipynb ](DataStructureAndAlgorithm/HarshTable.ipynb)
     - [x] Binary Search | [Search.ipynb](DataStructureAndAlgorithm/Search.ipynbb)
@@ -43,7 +43,7 @@ The content includes:
 From `Quora`
 > Start at a level you understand, and gradually increase the complexity of the problems you are solving and the systems you are building.
 
-> Don't let yourself distracted by all the vanity. If you get shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerning.
+> Don't let yourself distracted by all the vanity. If you get the shit done and can find someone who will pay you for it, you're at the best level of programming as far as I'm concerned.
 
 ## Directions for skill enhancement 
 * http://hackflow.com/blog/2014/06/22/why-every-language-needs-its-underscore/
