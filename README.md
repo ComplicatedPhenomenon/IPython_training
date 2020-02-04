@@ -31,7 +31,7 @@ The content includes:
     - [x] statistics | [statisticalPackage.ipynb](SciPy/scipy/statisticalPackage.ipynb)
 - [x] Leetcode
     - [x] String | [string.ipynb](LeetCode/string.ipynb)
-    - [x] Array | [PerformanceOfArray.ipynb](DataStructureAndAlgorithm/PerforamanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
+    - [x] Array | [PerformanceOfArray.ipynb](DataStructureAndAlgorithm/PerformanceOfArray.ipynb), [Array.ipynb](LeetCode/Array.ipynb)
     - [x] Tree | [BTree.ipynb](DataStructureAndAlgorithm/BTree.ipynb)
     - [x] Hash Table| [HarshTable.ipynb ](DataStructureAndAlgorithm/HarshTable.ipynb)
     - [x] Binary Search | [Search.ipynb](DataStructureAndAlgorithm/Search.ipynbb)
